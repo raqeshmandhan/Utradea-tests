@@ -1,0 +1,7 @@
+{
+    "name": "utradea_tests",
+    "dependencies": {
+        "codeceptjs": "^3.0.7",
+        "puppeteer": "^10.0.0"
+    }
+}
